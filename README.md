@@ -155,6 +155,6 @@ No known bugs at this time.
 
 ## Authors
 Onifade Olanrewaju - [Github](https://github.com/Amoo89) / [Twitter](https://twitter.com/amoooonifade)
-Joy Ada Obekpa - [Github](https://github.com/JoyAdaObekpa)
+Joy Ada Obekpa - [Github](https://github.com/JoyAda123)
 ## License
 Public Domain. No copy write protection. 
